@@ -17,7 +17,7 @@ Jeremy Breese
     - TAs should have access but limited functionality compared to professors.
     - Students will have the most limited functionality of all of the other users.
 2. ## Activities 
-    - Professors 
+    - ### Professors 
         - Professors will have the ability to create a new assignment.
             - They will be able to specify how many points available.
             - They will be able to specify the due date.
@@ -72,7 +72,7 @@ Jeremy Breese
                 - This will query all grades associated with an assignment.
             - **Constraints**
                 - The specified assignment must exist.
-    - Administration
+    - ### Administration
         - Administration will be able to view grades by student. This will return ass assignment grades for the specified student.
             - **Data**
                 - The query will accept a student name or ID and search for all assignments and grades for them. 
@@ -88,7 +88,7 @@ Jeremy Breese
                 - This will run a query and pull in names for anyone associated with the class.
             - **Constraints**
                 - The class must exist. 
-    - TAs
+    - ### TAs
         - TAs are able to open assignment submission.
             - **Data** 
                 - The assignment will be marked as open in the status column.
@@ -114,7 +114,7 @@ Jeremy Breese
                 - The assignment's grade column is refilled out.
             - **Constraints** 
                 - The assignment must exist, and be graded already. 
-    - Students
+    - ### Students
         - Students are able to submit an assignment.
             - **Data** 
                 - The assignemnt is added to the submissions table, and filled out with time, date, name, and IP address if applicable.
