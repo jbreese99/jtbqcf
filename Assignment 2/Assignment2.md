@@ -1,6 +1,7 @@
-# Project Description
-
+# Requirement Analysis
 ## School system for students and faculty to manage their classes. 
+
+### Jeremy Breese
 
 Need: A method for easily submitting and collecting programming assignments.
 
@@ -10,7 +11,36 @@ managing the course, its sections, TAs, and assignments.
 
 Client Base: CS Department – faculty, staff, and students
 
-Jeremy Breese
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1. ## Types of users
     - Professors of the class.
     - Administration, including the registrars office, advisors, and any other official will have access.
