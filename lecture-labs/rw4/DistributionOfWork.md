@@ -1,0 +1,19 @@
+- Table of contents
+    - Christina
+- One use case for one activity
+    - Christina
+- Activity Diagram for one activity
+    - Jeremy
+- Activity Diagram for one activity
+    - Zach 
+- Activity Diagram for one activity
+    - Christina
+- Class diagram for one activity
+    - Jeremy
+- ER Diagram for whole system
+    - Combine uploaded drawn photos from Class
+    - Jeremy
+- Sequence Diagram for one activity
+    - Zach
+- State machine Diagram
+    - Zach
