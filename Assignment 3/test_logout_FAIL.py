@@ -2,5 +2,5 @@ import logout
 
 def test_ogout():
     print("\nTesting Logout")
-    result = logout.logOut(4567)
-    assert result == False
+    result = logout.logOut(1234)
+    assert result == True

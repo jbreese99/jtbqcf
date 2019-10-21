@@ -1,7 +1,7 @@
 currentUser = 4567
-def logOut():
+def logOut(user):
     global currentUser
-    if (currentUser != 0) :
+    if (currentUser != user) :
         currentUser = 0
         return True
     else :
