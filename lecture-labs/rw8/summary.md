@@ -1,0 +1,1 @@
+- For this lab I had troubles in class running npm i. After getting home I was able to follow the instructions that were uploaded later on and complete the lab. Our group is pretty far along with the web site. 
